@@ -1,0 +1,59 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    background-color: #800080 ;
+}
+.header{
+    text-align: center;
+    padding: 2em;
+}
+.header__welcome--color{
+    color: #C9A2BF;
+}
+.memory-game{
+    width: 100vw;
+    display: grid;
+    grid-template-columns: repeat(4, 200px);
+    grid-template-rows: repeat(4, 200px);
+    grid-gap: 10px;
+    justify-content: center;
+
+}
+.memory-card{
+    background-color: #C9A2BF;
+    border-radius: 5px;
+    padding: 20px;
+}
+.memory-card:hover{
+    border: 3px solid #421C52;
+}
+
+.mint{
+    background-color: #adeadb;
+}
+.grey{
+    background-color: grey;
+}
+.blue{
+    background-color: royalblue;
+}
+.pink{
+    background-color: pink;
+}
+.navy{
+    background-color: navy;
+}
+.red{
+    background-color: maroon;
+}
+.green{
+    background-color: seagreen;
+}
+.graphite{
+    background-color: #36454F;
+}
+.color-hidden{
+    background-color: #C9A2BF;
+}

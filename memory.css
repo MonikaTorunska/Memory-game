@@ -57,3 +57,16 @@ body{
 .color-hidden{
     background-color: #C9A2BF;
 }
+button{
+    background-color: #C9A2BF;
+    font-size: 16px;
+    border-radius: 5px;
+    border: none;
+    height: 50px;
+    width: 100px;
+    font-weight: bold;
+    display: block;
+    margin: 30px auto;
+
+
+}

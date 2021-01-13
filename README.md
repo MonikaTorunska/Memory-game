@@ -1,4 +1,4 @@
-# memory
+# Memory Game
 
 Short memory game to check that both cards are of the same color with CSS and JS.
 
